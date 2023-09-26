@@ -351,4 +351,6 @@ MigrationBackup/
 
 # Custom 
 *.zip
+.bin/
+.obj/
 *.keystore
